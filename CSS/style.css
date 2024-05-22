@@ -43,6 +43,9 @@ margin-bottom: 20px;
     width: 30px;
     margin-left: 10px;
 }
+.box{
+ margin-bottom: 25px;
+}
 
 .row
 {
@@ -58,7 +61,7 @@ margin-bottom: 20px;
     padding-left: 20px;
 }
 .box .err{
-    margin-bottom: 25px;
+
 color: #ff5945;
 font-size: 14px;
 padding-left:20px ;
